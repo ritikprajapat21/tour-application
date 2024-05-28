@@ -1,4 +1,6 @@
 import mongoose from "mongoose";
+// Fetching dummy data using chatgpt
+// About section remove
 
 const tourSchema = new mongoose.Schema(
   {
@@ -15,10 +17,10 @@ const tourSchema = new mongoose.Schema(
       type: String,
       required: true,
     },
-    distance: {
-      type: Number,
-      required: true,
-    },
+    // distance: {
+    //   type: Number,
+    //   required: true,
+    // },
     photo: {
       type: String,
       required: true,
@@ -48,7 +50,7 @@ const tourSchema = new mongoose.Schema(
       default: false,
     },
   },
-  { timestamps: true }
+  { timestamps: true },
 );
 
 export default mongoose.model("Tour", tourSchema);

@@ -10,10 +10,10 @@ const nav__links = [
       path: '/home',
       display: 'Home'
    },
-   {
-      path: '/about',
-      display: 'About'
-   },
+   // {
+   //    path: '/about',
+   //    display: 'About'
+   // },
    {
       path: '/tours',
       display: 'Tours'
@@ -53,7 +53,7 @@ const Header = () => {
       <header className='header' ref={headerRef}>
          <Container>
             <Row>
-               <div className="nav__wrapper d-flex align-items-center justify-content-between">
+               <div className="nav__wrapper d-flex align-items-center justify-content-between gap-3">
                   {/* ========== LOGO ========== */}
                   <div className="logo">
                      <img src={Logo} alt="" />

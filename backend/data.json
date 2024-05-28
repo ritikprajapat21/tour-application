@@ -1,0 +1,112 @@
+[
+  {
+    "title": "Sunset Beach Tour",
+    "city": "Los Angeles",
+    "address": "123 Beach Ave",
+    "photo": "https://example.com/photos/sunset-beach.jpg",
+    "desc": "Enjoy a beautiful sunset at the beach with this guided tour.",
+    "price": 50,
+    "maxGroupSize": 20,
+    "reviews": [],
+    "featured": true
+  },
+  {
+    "title": "Historic City Tour",
+    "city": "Rome",
+    "address": "456 Ancient Rd",
+    "photo": "https://example.com/photos/historic-city.jpg",
+    "desc": "Discover the historic landmarks of Rome.",
+    "price": 75,
+    "maxGroupSize": 15,
+    "reviews": [],
+    "featured": false
+  },
+  {
+    "title": "Mountain Adventure",
+    "city": "Denver",
+    "address": "789 Mountain Pass",
+    "photo": "https://example.com/photos/mountain-adventure.jpg",
+    "desc": "A thrilling adventure through the mountains.",
+    "price": 120,
+    "maxGroupSize": 10,
+    "reviews": [],
+    "featured": true
+  },
+  {
+    "title": "City Lights Night Tour",
+    "city": "New York",
+    "address": "101 Broadway St",
+    "photo": "https://example.com/photos/city-lights.jpg",
+    "desc": "Experience the vibrant nightlife of New York City.",
+    "price": 60,
+    "maxGroupSize": 25,
+    "reviews": [],
+    "featured": false
+  },
+  {
+    "title": "Safari Adventure",
+    "city": "Nairobi",
+    "address": "202 Safari Rd",
+    "photo": "https://example.com/photos/safari-adventure.jpg",
+    "desc": "Explore the wildlife on this exciting safari tour.",
+    "price": 200,
+    "maxGroupSize": 8,
+    "reviews": [],
+    "featured": true
+  },
+  {
+    "title": "Cultural Heritage Tour",
+    "city": "Kyoto",
+    "address": "303 Heritage Ln",
+    "photo": "https://example.com/photos/cultural-heritage.jpg",
+    "desc": "Immerse yourself in the cultural heritage of Kyoto.",
+    "price": 90,
+    "maxGroupSize": 12,
+    "reviews": [],
+    "featured": false
+  },
+  {
+    "title": "Wine Tasting Tour",
+    "city": "Paris",
+    "address": "404 Vineyard Dr",
+    "photo": "https://example.com/photos/wine-tasting.jpg",
+    "desc": "Taste the finest wines with this exclusive tour.",
+    "price": 150,
+    "maxGroupSize": 10,
+    "reviews": [],
+    "featured": true
+  },
+  {
+    "title": "Underwater Adventure",
+    "city": "Sydney",
+    "address": "505 Ocean Blvd",
+    "photo": "https://example.com/photos/underwater-adventure.jpg",
+    "desc": "Dive into an underwater adventure and explore marine life.",
+    "price": 180,
+    "maxGroupSize": 6,
+    "reviews": [],
+    "featured": false
+  },
+  {
+    "title": "Desert Safari",
+    "city": "Dubai",
+    "address": "606 Desert Rd",
+    "photo": "https://example.com/photos/desert-safari.jpg",
+    "desc": "Experience the desert with an exciting safari tour.",
+    "price": 130,
+    "maxGroupSize": 15,
+    "reviews": [],
+    "featured": true
+  },
+  {
+    "title": "City Park Walking Tour",
+    "city": "San Francisco",
+    "address": "707 Park St",
+    "photo": "https://example.com/photos/city-park.jpg",
+    "desc": "A relaxing walk through the city's beautiful parks.",
+    "price": 40,
+    "maxGroupSize": 30,
+    "reviews": [],
+    "featured": false
+  }
+]
