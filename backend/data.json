@@ -1,1 +1,222 @@
-[{"_id":{"$oid":"66586e0820b3b28c3937fe77"},"title":"Sunset Beach Tour","city":"Los Angeles","address":"123 Beach Ave","photo":"https://images.unsplash.com/photo-1414609245224-afa02bfb3fda?q=80&w=1378&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D","desc":"Enjoy a beautiful sunset at the beach with this guided tour.","price":50,"maxGroupSize":20,"reviews":[],"featured":true,"__v":0,"createdAt":{"$date":"2024-05-30T12:16:08.386Z"},"updatedAt":{"$date":"2024-05-30T12:16:08.386Z"}},{"_id":{"$oid":"66586e0820b3b28c3937fe78"},"title":"Historic City Tour","city":"Rome","address":"456 Ancient Rd","photo":"https://images.unsplash.com/photo-1552832230-c0197dd311b5?q=80&w=1396&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D","desc":"Discover the historic landmarks of Rome.","price":75,"maxGroupSize":15,"reviews":[],"featured":false,"__v":0,"createdAt":{"$date":"2024-05-30T12:16:08.388Z"},"updatedAt":{"$date":"2024-05-30T12:16:08.388Z"}},{"_id":{"$oid":"66586e0820b3b28c3937fe79"},"title":"Mountain Adventure","city":"Denver","address":"789 Mountain Pass","photo":"https://plus.unsplash.com/premium_photo-1675315343167-0414307c9182?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8ZGVudmVyJTIwbW91bnRhaW4lMjBpbWFnZXxlbnwwfHwwfHx8MA%3D%3D","desc":"A thrilling adventure through the mountains.","price":120,"maxGroupSize":10,"reviews":[],"featured":true,"__v":0,"createdAt":{"$date":"2024-05-30T12:16:08.388Z"},"updatedAt":{"$date":"2024-05-30T12:16:08.388Z"}},{"_id":{"$oid":"66586e0820b3b28c3937fe7a"},"title":"City Lights Night Tour","city":"New York","address":"101 Broadway St","photo":"https://images.unsplash.com/photo-1687338837043-1f0a9730d397?q=80&w=1471&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D","desc":"Experience the vibrant nightlife of New York City.","price":60,"maxGroupSize":25,"reviews":[],"featured":false,"__v":0,"createdAt":{"$date":"2024-05-30T12:16:08.388Z"},"updatedAt":{"$date":"2024-05-30T12:16:08.388Z"}},{"_id":{"$oid":"66586e0820b3b28c3937fe7b"},"title":"Safari Adventure","city":"Nairobi","address":"202 Safari Rd","photo":"https://plus.unsplash.com/premium_photo-1661927759047-e010089a6451?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTd8fG5haXJvYmklMjBzYWZhcmklMjB3YWxrfGVufDB8fDB8fHww","desc":"Explore the wildlife on this exciting safari tour.","price":200,"maxGroupSize":8,"reviews":[],"featured":true,"__v":0,"createdAt":{"$date":"2024-05-30T12:16:08.389Z"},"updatedAt":{"$date":"2024-05-30T12:16:08.389Z"}},{"_id":{"$oid":"66586e0820b3b28c3937fe7c"},"title":"Cultural Heritage Tour","city":"Kyoto","address":"303 Heritage Ln","photo":"https://images.unsplash.com/photo-1624253321171-1be53e12f5f4?q=80&w=1374&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D","desc":"Immerse yourself in the cultural heritage of Kyoto.","price":90,"maxGroupSize":12,"reviews":[],"featured":false,"__v":0,"createdAt":{"$date":"2024-05-30T12:16:08.389Z"},"updatedAt":{"$date":"2024-05-30T12:16:08.389Z"}},{"_id":{"$oid":"66586e0820b3b28c3937fe7d"},"title":"Wine Tasting Tour","city":"Paris","address":"404 Vineyard Dr","photo":"https://images.unsplash.com/photo-1502602898657-3e91760cbb34?q=80&w=1473&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D","desc":"Taste the finest wines with this exclusive tour.","price":150,"maxGroupSize":10,"reviews":[],"featured":true,"__v":0,"createdAt":{"$date":"2024-05-30T12:16:08.389Z"},"updatedAt":{"$date":"2024-05-30T12:16:08.389Z"}},{"_id":{"$oid":"66586e0820b3b28c3937fe7e"},"title":"Underwater Adventure","city":"Sydney","address":"505 Ocean Blvd","photo":"https://images.unsplash.com/photo-1463468217891-c11f48e6310a?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8c3lkbmV5JTIwdW5kZXJ3YXRlcnxlbnwwfHwwfHx8MA%3D%3D","desc":"Dive into an underwater adventure and explore marine life.","price":180,"maxGroupSize":6,"reviews":[],"featured":false,"__v":0,"createdAt":{"$date":"2024-05-30T12:16:08.389Z"},"updatedAt":{"$date":"2024-05-30T12:16:08.389Z"}},{"_id":{"$oid":"66586e0820b3b28c3937fe7f"},"title":"Desert Safari","city":"Dubai","address":"606 Desert Rd","photo":"https://images.unsplash.com/photo-1489493585363-d69421e0edd3?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8ZHViYWklMjBkZXNlcnR8ZW58MHx8MHx8fDA%3D","desc":"Experience the desert with an exciting safari tour.","price":130,"maxGroupSize":15,"reviews":[],"featured":true,"__v":0,"createdAt":{"$date":"2024-05-30T12:16:08.389Z"},"updatedAt":{"$date":"2024-05-30T12:16:08.389Z"}},{"_id":{"$oid":"66586e0820b3b28c3937fe80"},"title":"City Park Walking Tour","city":"San Francisco","address":"707 Park St","photo":"https://images.unsplash.com/photo-1554107136-57b138ea99df?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D","desc":"A relaxing walk through the city's beautiful parks.","price":40,"maxGroupSize":30,"reviews":[],"featured":false,"__v":0,"createdAt":{"$date":"2024-05-30T12:16:08.389Z"},"updatedAt":{"$date":"2024-05-30T12:16:08.389Z"}}]
+[
+  {
+    "title": "Sunset Beach Tour",
+    "city": "Los Angeles",
+    "address": "123 Beach Ave",
+    "photo": "https://images.unsplash.com/photo-1414609245224-afa02bfb3fda?q=80&w=1378&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "desc": "Enjoy a beautiful sunset at the beach with this guided tour.",
+    "price": 50,
+    "maxGroupSize": 20,
+    "reviews": [],
+    "featured": true
+  },
+  {
+    "title": "Historic City Tour",
+    "city": "Rome",
+    "address": "456 Ancient Rd",
+    "photo": "https://images.unsplash.com/photo-1552832230-c0197dd311b5?q=80&w=1396&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "desc": "Discover the historic landmarks of Rome.",
+    "price": 75,
+    "maxGroupSize": 15,
+    "reviews": [],
+    "featured": false
+  },
+  {
+    "title": "Mountain Adventure",
+    "city": "Denver",
+    "address": "789 Mountain Pass",
+    "photo": "https://plus.unsplash.com/premium_photo-1675315343167-0414307c9182?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8ZGVudmVyJTIwbW91bnRhaW4lMjBpbWFnZXxlbnwwfHwwfHx8MA%3D%3D",
+    "desc": "A thrilling adventure through the mountains.",
+    "price": 120,
+    "maxGroupSize": 10,
+    "reviews": [],
+    "featured": true
+  },
+  {
+    "title": "City Lights Night Tour",
+    "city": "New York",
+    "address": "101 Broadway St",
+    "photo": "https://images.unsplash.com/photo-1687338837043-1f0a9730d397?q=80&w=1471&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "desc": "Experience the vibrant nightlife of New York City.",
+    "price": 60,
+    "maxGroupSize": 25,
+    "reviews": [],
+    "featured": false
+  },
+  {
+    "title": "Safari Adventure",
+    "city": "Nairobi",
+    "address": "202 Safari Rd",
+    "photo": "https://plus.unsplash.com/premium_photo-1661927759047-e010089a6451?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTd8fG5haXJvYmklMjBzYWZhcmklMjB3YWxrfGVufDB8fDB8fHww",
+    "desc": "Explore the wildlife on this exciting safari tour.",
+    "price": 200,
+    "maxGroupSize": 8,
+    "reviews": [],
+    "featured": true
+  },
+  {
+    "title": "Cultural Heritage Tour",
+    "city": "Kyoto",
+    "address": "303 Heritage Ln",
+    "photo": "https://images.unsplash.com/photo-1624253321171-1be53e12f5f4?q=80&w=1374&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "desc": "Immerse yourself in the cultural heritage of Kyoto.",
+    "price": 90,
+    "maxGroupSize": 12,
+    "reviews": [],
+    "featured": false
+  },
+  {
+    "title": "Wine Tasting Tour",
+    "city": "Paris",
+    "address": "404 Vineyard Dr",
+    "photo": "https://images.unsplash.com/photo-1502602898657-3e91760cbb34?q=80&w=1473&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "desc": "Taste the finest wines with this exclusive tour.",
+    "price": 150,
+    "maxGroupSize": 10,
+    "reviews": [],
+    "featured": true
+  },
+  {
+    "title": "Underwater Adventure",
+    "city": "Sydney",
+    "address": "505 Ocean Blvd",
+    "photo": "https://images.unsplash.com/photo-1463468217891-c11f48e6310a?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8c3lkbmV5JTIwdW5kZXJ3YXRlcnxlbnwwfHwwfHx8MA%3D%3D",
+    "desc": "Dive into an underwater adventure and explore marine life.",
+    "price": 180,
+    "maxGroupSize": 6,
+    "reviews": [],
+    "featured": false
+  },
+  {
+    "title": "Desert Safari",
+    "city": "Dubai",
+    "address": "606 Desert Rd",
+    "photo": "https://images.unsplash.com/photo-1489493585363-d69421e0edd3?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8ZHViYWklMjBkZXNlcnR8ZW58MHx8MHx8fDA%3D",
+    "desc": "Experience the desert with an exciting safari tour.",
+    "price": 130,
+    "maxGroupSize": 15,
+    "reviews": [],
+    "featured": true
+  },
+  {
+    "title": "City Park Walking Tour",
+    "city": "San Francisco",
+    "address": "707 Park St",
+    "photo": "https://images.unsplash.com/photo-1554107136-57b138ea99df?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "desc": "A relaxing walk through the city's beautiful parks.",
+    "price": 40,
+    "maxGroupSize": 30,
+    "reviews": [],
+    "featured": false
+  },
+  {
+    "title": "Golden Triangle Tour",
+    "city": "Delhi",
+    "address": "Rajpath, New Delhi",
+    "photo": "https://www.goldentriangletourindia.com/images/golden-triangle-pack-01.avif",
+    "desc": "Explore the historical cities of Delhi, Agra, and Jaipur.",
+    "price": 300,
+    "maxGroupSize": 25,
+    "reviews": [],
+    "featured": true
+  },
+  {
+    "title": "Backwaters of Kerala",
+    "city": "Alleppey",
+    "address": "Backwaters, Alleppey",
+    "photo": "https://imgs.search.brave.com/BH2h4aLGG6MZo-ve38-kUCwyExyMewhf3HEtymp2EKU/rs:fit:860:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy90/aHVtYi9lL2VlL0hv/dXNlX0JvYXRfRFNX/LmpwZy82NDBweC1I/b3VzZV9Cb2F0X0RT/Vy5qcGc",
+    "desc": "Experience the serene backwaters on a houseboat.",
+    "price": 150,
+    "maxGroupSize": 10,
+    "reviews": [],
+    "featured": true
+  },
+  {
+    "title": "Rajasthan Desert Safari",
+    "city": "Jaisalmer",
+    "address": "Sam Sand Dunes, Jaisalmer",
+    "photo": "https://imgs.search.brave.com/wbF9cFEtyDiCJLJMXHMo58rmZo_BCsSuYEiwtc37rUo/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9jaGV0/cmFtdm95YWdlcy5p/bi93cC1jb250ZW50/L3VwbG9hZHMvMjAx/OC8wNS9DaGV0cmFt/LVZveWFnZXMtSmFp/c2FsbWVyLWRlc2Vy/dC1zYWZhcmktdG91/cnMuanBn",
+    "desc": "An adventurous desert safari in the Thar Desert.",
+    "price": 200,
+    "maxGroupSize": 15,
+    "reviews": [],
+    "featured": true
+  },
+  {
+    "title": "Spiritual Tour of Varanasi",
+    "city": "Varanasi",
+    "address": "Ghats of Ganges, Varanasi",
+    "photo": "https://imgs.search.brave.com/7K7U67OtnQaElSZI1jhpvAFMMFIrq8ctmS5-5vx_iuo/rs:fit:860:0:0/g:ce/aHR0cHM6Ly93d3cu/dHJpcHNhdnZ5LmNv/bS90aG1iL3RKNnJ1/SkRLSVNaZjN0Wm42/anhfX0hlTVVNWT0v/MTUwMHgwL2ZpbHRl/cnM6bm9fdXBzY2Fs/ZSgpOm1heF9ieXRl/cygxNTAwMDApOnN0/cmlwX2ljYygpL0dl/dHR5SW1hZ2VzLTEy/ODI1MzY3NC01OTIx/NTYwMjVmOWI1OGY0/YzBkNzliZmQuanBn",
+    "desc": "A spiritual journey along the ghats of the Ganges.",
+    "price": 100,
+    "maxGroupSize": 20,
+    "reviews": [],
+    "featured": true
+  },
+  {
+    "title": "Goa Beach Tour",
+    "city": "Goa",
+    "address": "Baga Beach, Goa",
+    "photo": "https://imgs.search.brave.com/L-iBTtEkVKoyedlygXi5OqRxpkA69InqQFlH-ses-ZA/rs:fit:860:0:0/g:ce/aHR0cHM6Ly93d3cu/dG91cm15aW5kaWEu/Y29tL3BhY2thZ2Vz/LXRvdXItaW5kaWEv/aW1hZ2UvbWFuZ2Fs/b3JlLWdvYS1iZWFj/aC10b3VyLndlYnA",
+    "desc": "Relax and enjoy the sunny beaches of Goa.",
+    "price": 120,
+    "maxGroupSize": 30,
+    "reviews": [],
+    "featured": true
+  },
+  {
+    "title": "Kashmir Valley Tour",
+    "city": "Srinagar",
+    "address": "Dal Lake, Srinagar",
+    "photo": "https://imgs.search.brave.com/uIlpP_4WosHCoUNdFU--conVLsiDof2bQWNQryGdFsU/rs:fit:860:0:0/g:ce/aHR0cHM6Ly90My5m/dGNkbi5uZXQvanBn/LzA3LzcxLzc1LzM0/LzM2MF9GXzc3MTc1/MzQ1Ml9kb3drODRh/S1FWRUZuakRWbmNT/a3B0Nk5RU0dDc3Fx/bS5qcGc",
+    "desc": "Explore the breathtaking beauty of Kashmir Valley.",
+    "price": 250,
+    "maxGroupSize": 12,
+    "reviews": [],
+    "featured": true
+  },
+  {
+    "title": "Tea Gardens of Darjeeling",
+    "city": "Darjeeling",
+    "address": "Tea Estates, Darjeeling",
+    "photo": "https://imgs.search.brave.com/FSvq9VeD27U5TwxPVOfxI_9vA6veIltDMQ8W725GJzA/rs:fit:860:0:0/g:ce/aHR0cHM6Ly93d3cu/dGVhY3Vwc2Z1bGwu/Y29tL2Nkbi9zaG9w/L2FydGljbGVzL2lu/ZGlhLTMyOV8xMjgw/LmpwZz92PTE1MzM0/NDI2OTkmd2lkdGg9/MTEwMA",
+    "desc": "A refreshing tour through the lush tea gardens.",
+    "price": 80,
+    "maxGroupSize": 15,
+    "reviews": [],
+    "featured": true
+  },
+  {
+    "title": "Temple Tour of Tamil Nadu",
+    "city": "Chennai",
+    "address": "Marina Beach, Chennai",
+    "photo": "https://imgs.search.brave.com/RPtWGOoPswDi06qPuuMTHCcrZiy0u_uSse_IzfjGjlg/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9paHBs/LmItY2RuLm5ldC9w/aWN0dXJlcy90b3Vy/aW50cm8vY2hlbm5h/aS13aXRoLXRlbXBs/ZS10b3VyLTQ0Lmpw/ZWc",
+    "desc": "Visit the grand temples of Tamil Nadu.",
+    "price": 90,
+    "maxGroupSize": 20,
+    "reviews": [],
+    "featured": true
+  },
+  {
+    "title": "Wildlife Safari in Jim Corbett",
+    "city": "Nainital",
+    "address": "Jim Corbett National Park, Nainital",
+    "photo": "https://imgs.search.brave.com/8u0Q-kulshLUKF7SeL0eJvD5mifJTHXzkbC82sI6Cxg/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9qaW1j/b3JiZXR0LmluL2lt/YWdlL2YyLmpwZw",
+    "desc": "A thrilling safari in Jim Corbett National Park.",
+    "price": 180,
+    "maxGroupSize": 8,
+    "reviews": [],
+    "featured": true
+  },
+  {
+    "title": "Rann of Kutch Festival Tour",
+    "city": "Bhuj",
+    "address": "Rann of Kutch, Bhuj",
+    "photo": "https://imgs.search.brave.com/R5uxeFAGaGnyUuRRgx5_tXRrUxyQpDkgAQXV6HFbO54/rs:fit:860:0:0/g:ce/aHR0cHM6Ly93d3cu/dHJpcHNhdnZ5LmNv/bS90aG1iLzlZOS1f/X0x2ZG0xU1NUNmFk/cm85LU1NSFNBZz0v/MTUwMHgwL2ZpbHRl/cnM6bm9fdXBzY2Fs/ZSgpOm1heF9ieXRl/cygxNTAwMDApOnN0/cmlwX2ljYygpL0dl/dHR5SW1hZ2VzLTY1/NjMxMDA5My1jYmJj/ZTRlYTc5YTc0NTdi/YWJkNDdjYjc2YTRj/ZjAxZi5qcGc",
+    "desc": "Experience the vibrant Rann Utsav in the white desert.",
+    "price": 220,
+    "maxGroupSize": 25,
+    "reviews": [],
+    "featured": true
+  }
+]
